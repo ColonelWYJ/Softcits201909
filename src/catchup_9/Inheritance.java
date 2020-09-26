@@ -45,7 +45,7 @@ class Student extends Person{
 		else if(average < 80) return "A";
 		else if(average < 90) return "E";
 		else return "O";
-		return;
+		
 	}
 
     /*	
